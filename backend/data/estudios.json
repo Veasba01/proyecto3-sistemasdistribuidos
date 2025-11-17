@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "estudio_001",
+    "nombre": "Studio Ghibli",
+    "fundacion": 1985,
+    "pais": "Japón",
+    "imagen": "https://example.com/images/studios/ghibli.jpg"
+  },
+  {
+    "_id": "estudio_002",
+    "nombre": "Pixar Animation Studios",
+    "fundacion": 1986,
+    "pais": "Estados Unidos",
+    "imagen": "https://example.com/images/studios/pixar.jpg"
+  },
+  {
+    "_id": "estudio_003",
+    "nombre": "Walt Disney Animation Studios",
+    "fundacion": 1923,
+    "pais": "Estados Unidos",
+    "imagen": "https://example.com/images/studios/disney.jpg"
+  },
+  {
+    "_id": "estudio_004",
+    "nombre": "DreamWorks Animation",
+    "fundacion": 1994,
+    "pais": "Estados Unidos",
+    "imagen": "https://example.com/images/studios/dreamworks.jpg"
+  },
+  {
+    "_id": "estudio_005",
+    "nombre": "Illumination Entertainment",
+    "fundacion": 2007,
+    "pais": "Estados Unidos",
+    "imagen": "https://example.com/images/studios/illumination.jpg"
+  },
+  {
+    "_id": "estudio_006",
+    "nombre": "Toei Animation",
+    "fundacion": 1948,
+    "pais": "Japón",
+    "imagen": "https://example.com/images/studios/toei.jpg"
+  }
+]

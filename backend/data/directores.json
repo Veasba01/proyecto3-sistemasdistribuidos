@@ -1,0 +1,44 @@
+[
+  {
+    "_id": "director_001",
+    "nombre": "Hayao Miyazaki",
+    "nacionalidad": "Japonesa",
+    "nacimiento": 1941,
+    "imagen": "https://example.com/images/directors/miyazaki.jpg"
+  },
+  {
+    "_id": "director_002",
+    "nombre": "John Lasseter",
+    "nacionalidad": "Estadounidense",
+    "nacimiento": 1957,
+    "imagen": "https://example.com/images/directors/lasseter.jpg"
+  },
+  {
+    "_id": "director_003",
+    "nombre": "Ron Clements",
+    "nacionalidad": "Estadounidense",
+    "nacimiento": 1953,
+    "imagen": "https://example.com/images/directors/clements.jpg"
+  },
+  {
+    "_id": "director_004",
+    "nombre": "Chris Sanders",
+    "nacionalidad": "Estadounidense",
+    "nacimiento": 1962,
+    "imagen": "https://example.com/images/directors/sanders.jpg"
+  },
+  {
+    "_id": "director_005",
+    "nombre": "Chris Renaud",
+    "nacionalidad": "Estadounidense",
+    "nacimiento": 1966,
+    "imagen": "https://example.com/images/directors/renaud.jpg"
+  },
+  {
+    "_id": "director_006",
+    "nombre": "Mamoru Hosoda",
+    "nacionalidad": "Japonesa",
+    "nacimiento": 1967,
+    "imagen": "https://example.com/images/directors/hosoda.jpg"
+  }
+]

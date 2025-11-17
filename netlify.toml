@@ -1,0 +1,44 @@
+[build]
+  command = "cd frontend && npm install && npm run build"
+  functions = "backend/functions"
+  publish = "frontend/dist"
+
+[build.environment]
+  NODE_VERSION = "18"
+
+# Rutas de autenticación
+[[redirects]]
+  from = "/api/auth/*"
+  to = "/.netlify/functions/auth"
+  status = 200
+
+# Ruta para procesar cola de RabbitMQ
+[[redirects]]
+  from = "/api/procesar-cola"
+  to = "/.netlify/functions/procesar-cola"
+  status = 200
+
+# Rutas de películas (usando RabbitMQ)
+[[redirects]]
+  from = "/api/peliculas/*"
+  to = "/.netlify/functions/peliculas-rabbitmq"
+  status = 200
+
+# Rutas de estudios (usando RabbitMQ)
+[[redirects]]
+  from = "/api/estudios/*"
+  to = "/.netlify/functions/estudios-rabbitmq"
+  status = 200
+
+# Rutas de directores (usando RabbitMQ)
+[[redirects]]
+  from = "/api/directores/*"
+  to = "/.netlify/functions/directores-rabbitmq"
+  status = 200
+
+# Ruta por defecto - Frontend
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+

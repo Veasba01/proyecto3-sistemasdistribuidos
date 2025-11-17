@@ -1,0 +1,134 @@
+[
+  {
+    "_id": "pelicula_001",
+    "titulo": "El Viaje de Chihiro",
+    "año": 2001,
+    "duracion": 125,
+    "genero": "Fantasía",
+    "sinopsis": "Una niña de 10 años entra en el mundo de los kami (espíritus de la mitología japonesa), donde los humanos son transformados en bestias.",
+    "imagen": "https://example.com/images/movies/spirited_away.jpg",
+    "estudio_id": "estudio_001",
+    "director_id": "director_001"
+  },
+  {
+    "_id": "pelicula_002",
+    "titulo": "Toy Story",
+    "año": 1995,
+    "duracion": 81,
+    "genero": "Aventura",
+    "sinopsis": "Un vaquero de juguete se siente amenazado y celoso cuando un nuevo juguete espacial lo reemplaza como el favorito de su dueño.",
+    "imagen": "https://example.com/images/movies/toy_story.jpg",
+    "estudio_id": "estudio_002",
+    "director_id": "director_002"
+  },
+  {
+    "_id": "pelicula_003",
+    "titulo": "La Sirenita",
+    "año": 1989,
+    "duracion": 83,
+    "genero": "Musical",
+    "sinopsis": "Una sirena joven y rebelde llamada Ariel sueña con convertirse en humana después de enamorarse de un príncipe.",
+    "imagen": "https://example.com/images/movies/little_mermaid.jpg",
+    "estudio_id": "estudio_003",
+    "director_id": "director_003"
+  },
+  {
+    "_id": "pelicula_004",
+    "titulo": "Cómo Entrenar a tu Dragón",
+    "año": 2010,
+    "duracion": 98,
+    "genero": "Aventura",
+    "sinopsis": "Un adolescente vikingo aspira a cazar dragones, pero se convierte en el amigo improbable de un joven dragón.",
+    "imagen": "https://example.com/images/movies/how_to_train_dragon.jpg",
+    "estudio_id": "estudio_004",
+    "director_id": "director_004"
+  },
+  {
+    "_id": "pelicula_005",
+    "titulo": "Mi Villano Favorito",
+    "año": 2010,
+    "duracion": 95,
+    "genero": "Comedia",
+    "sinopsis": "Un supervillano adopta a tres niñas huérfanas como parte de un gran plan para robar la luna, pero poco a poco comienza a cuidarlas genuinamente.",
+    "imagen": "https://example.com/images/movies/despicable_me.jpg",
+    "estudio_id": "estudio_005",
+    "director_id": "director_005"
+  },
+  {
+    "_id": "pelicula_006",
+    "titulo": "El Castillo en el Cielo",
+    "año": 1986,
+    "duracion": 125,
+    "genero": "Aventura",
+    "sinopsis": "Una joven con un cristal mágico debe escapar de piratas y agentes del gobierno que buscan el cristal y el legendario castillo flotante de Laputa.",
+    "imagen": "https://example.com/images/movies/castle_in_sky.jpg",
+    "estudio_id": "estudio_001",
+    "director_id": "director_001"
+  },
+  {
+    "_id": "pelicula_007",
+    "titulo": "Monsters, Inc.",
+    "año": 2001,
+    "duracion": 92,
+    "genero": "Comedia",
+    "sinopsis": "Para generar energía, los monstruos de Monsters, Inc. asustan a los niños, pero un día una niña entra en su mundo.",
+    "imagen": "https://example.com/images/movies/monsters_inc.jpg",
+    "estudio_id": "estudio_002",
+    "director_id": "director_002"
+  },
+  {
+    "_id": "pelicula_008",
+    "titulo": "La Bella y la Bestia",
+    "año": 1991,
+    "duracion": 84,
+    "genero": "Romance",
+    "sinopsis": "Una joven llamada Bella se ofrece como prisionera de una bestia a cambio de la libertad de su padre.",
+    "imagen": "https://example.com/images/movies/beauty_beast.jpg",
+    "estudio_id": "estudio_003",
+    "director_id": "director_003"
+  },
+  {
+    "_id": "pelicula_009",
+    "titulo": "Shrek",
+    "año": 2001,
+    "duracion": 90,
+    "genero": "Comedia",
+    "sinopsis": "Un ogro antisocial cuya pantano es invadido por personajes de cuentos de hadas que han sido exiliados por el malvado Lord Farquaad.",
+    "imagen": "https://example.com/images/movies/shrek.jpg",
+    "estudio_id": "estudio_004",
+    "director_id": "director_004"
+  },
+  {
+    "_id": "pelicula_010",
+    "titulo": "Los Minions",
+    "año": 2015,
+    "duracion": 91,
+    "genero": "Comedia",
+    "sinopsis": "Los Minions han servido como lacayos de los villanos más despreciables a lo largo de la historia, siempre sin éxito.",
+    "imagen": "https://example.com/images/movies/minions.jpg",
+    "estudio_id": "estudio_005",
+    "director_id": "director_005"
+  },
+  {
+    "_id": "pelicula_011",
+    "titulo": "El Niño y la Bestia",
+    "año": 2015,
+    "duracion": 119,
+    "genero": "Aventura",
+    "sinopsis": "Un niño huérfano entra en un mundo paralelo habitado por bestias y se convierte en discípulo de un guerrero bestia.",
+    "imagen": "https://example.com/images/movies/boy_beast.jpg",
+    "estudio_id": "estudio_006",
+    "director_id": "director_006"
+  },
+  {
+    "_id": "pelicula_012",
+    "titulo": "Mi Vecino Totoro",
+    "año": 1988,
+    "duracion": 86,
+    "genero": "Familiar",
+    "sinopsis": "Dos hermanas se mudan al campo para estar cerca de su madre hospitalizada y descubren criaturas mágicas en el bosque cercano.",
+    "imagen": "https://example.com/images/movies/totoro.jpg",
+    "estudio_id": "estudio_001",
+    "director_id": "director_001"
+  }
+]
